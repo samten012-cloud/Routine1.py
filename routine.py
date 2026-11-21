@@ -1,0 +1,7 @@
+print("MY DAILY ROUTINE")
+print("7:00 - I wake up and brush my Teeth.")
+print("8:00 - I go to school")
+print("5.30 - I go to my football training")
+print("7:oo - My football training ends and I go Home")
+print("from 8:00 to 9:00 - i go to sleep")
+print("THIS IS MY DAILY ROUTINE WHATS YOURS?")
